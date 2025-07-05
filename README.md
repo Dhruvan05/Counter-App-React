@@ -73,9 +73,9 @@ The app will run locally at: [http://localhost:3000](http://localhost:3000)
 
 ## 📸 UI Preview
 
-```md
+
 ![alt text](React_folio/counter_react/image.png)
-```
+
 
 ## 🪪 License
 
